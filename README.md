@@ -19,9 +19,6 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Usage](#usage)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -70,6 +67,7 @@ Implemented DAX (Data Analysis Expressions) for time-related analysis, allowing 
 
 ***Hierarchical Data Presentation:***
 Employed hierarchies in Power BI for effective drill-downs, providing users with a detailed view of data at different levels.
+
 
 **SQL**:
 
