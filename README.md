@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/m-aviarchuk/Bank_Loan_Report_Project">
-    <img src="Images/Header_Image.jpg" alt="Logo">
+    <img src="Images/Header_img.png" alt="Logo">
   </a>
 
   <h3 align="center">Bank Loan Report Project</h3>
