@@ -3,11 +3,34 @@
 
 @import "{{ site.theme }}";
 body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: #1f242d;
+    color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', sans-serif;
+.header-cover {
+    /* Adjust height and background image URL accordingly */
+    height: 300px;
+    background-image: url('header-cover.jpg');
+    background-size: cover;
+    background-position: center;
 }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header,
+nav,
+section {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
