@@ -52,8 +52,7 @@ Implemented complex Excel formulas, including nested functions, to calculate KPI
 
 ***Scenario Analysis with Data Tables:***
 Employed Excel's Data Table feature for scenario analysis, assessing the impact of different variables on key metrics.
-
-
+<p></p>
 
 **Power BI:**
 
@@ -68,8 +67,7 @@ Implemented DAX (Data Analysis Expressions) for time-related analysis, allowing 
 
 ***Hierarchical Data Presentation:***
 Employed hierarchies in Power BI for effective drill-downs, providing users with a detailed view of data at different levels.
-
-
+<p></p>
 
 **SQL**:
 
