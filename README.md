@@ -91,21 +91,3 @@ Implemented SQL optimization techniques, including indexing and query optimizati
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-### Creating A Pull Request
-
-
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/m-aviarchuk/Bank_Loan_Report_Project/blob/main/LICENSE.md) for more information.
-
-## Authors
-
-* **** - ** - []() - **
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
