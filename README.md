@@ -9,15 +9,6 @@
   <p align="center">
     By leveraging Excel, Power BI, and SQL, this Bank Loan Report project provides a robust foundation for data-driven decision-making, enabling a comprehensive understanding of lending operations, risk management, and customer behavior within the banking sector.
     <br/>
-    <br/>
-    <a href="https://github.com/m-aviarchuk/Bank_Loan_Report_Project"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/m-aviarchuk/Bank_Loan_Report_Project">View Demo</a>
-    .
-    <a href="https://github.com/m-aviarchuk/Bank_Loan_Report_Project/issues">Report Bug</a>
-    .
-    <a href="https://github.com/m-aviarchuk/Bank_Loan_Report_Project/issues">Request Feature</a>
   </p>
 </p>
 
