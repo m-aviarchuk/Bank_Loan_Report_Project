@@ -1,17 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 html { height: 100%; }
 
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:  'Poppins', sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
 pre, code {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: 'Poppins', sans-serif;
   font-size: 0.9rem;
 }
 
@@ -82,10 +81,10 @@ img {
       --headings: #74c0fc;
       --links: #91A7FF;
       --highlight: #41C7C7;
-      --bg: #1f242A;
-      --bg-secondary: #323945;
-      --text: #adb5bd;
-      --text-secondary: #9CA3AF;
+      --bg: #1f242d;
+      --bg-secondary: #323946;
+      --text: #0ef;
+      --text-secondary: #fff;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
   };
@@ -210,7 +209,7 @@ p code, li code {
   }
 }
 .tag {
-  font-family: "Roboto Mono", "Courier New", monospace;
+  font-family: 'Poppins', sans-serif;
   color: var(--text-secondary);
   padding: 0.4em 1em;
   margin-right: 0.5em;
