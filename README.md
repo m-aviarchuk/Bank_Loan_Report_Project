@@ -70,3 +70,4 @@ Implemented GROUP BY clauses in SQL queries to perform data aggregation. Calcula
 ***Database Optimization:***
 Implemented SQL optimization techniques, including indexing and query optimization, to enhance database performance. Ensured efficient data retrieval for reporting and analysis purposes.
 
+## Documentation
